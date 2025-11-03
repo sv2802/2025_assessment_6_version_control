@@ -5,3 +5,6 @@ The format is based on Keep a Changelog (https://keepachangelog.com/en/1.1.0/).
 
 ## Changed
 - Remove high-severity placeholder XXXXXXX from data/a1991182.txt (refs #<HI_ISSUE>)
+
+## Changed
+- Removed high-severity placeholder XXXXXXX from data/a1991182.txt (fixes #55)
